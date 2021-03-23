@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px ;
+    text-align: center;
+    color:white;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+#paragraph {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+#company {
+    text-align:right;
+    color:gray;
+}
+.link {
+    text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
